@@ -112,6 +112,8 @@ The new SSSP algorithm achieves O(m log^(2/3) n) complexity through:
 This visualization is based on:
 > Duan, R., Mao, T., Mao, Y., Shu, X., & Yin, L. (2025). Breaking the Sorting Barrier for Directed Single-Source Shortest Paths.
 
+[Read the original research paper on arXiv](https://arxiv.org/abs/2504.17033)
+
 ## 🎓 Educational Value
 
 This tool is perfect for:
